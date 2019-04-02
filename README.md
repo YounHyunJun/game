@@ -1,2 +1,4 @@
-재미로 만들어 본 테트리스 게임.<br>
-Web 에서 이용할 수 있도록 Javascript 로 만들었다.
+1인용 Web 테트리스 게임.<br>
+
+Javascript/CSS 를 이용한 싱글 
+
